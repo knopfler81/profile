@@ -1,0 +1,1 @@
+###exercice of static page
